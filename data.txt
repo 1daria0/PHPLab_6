@@ -1,1 +1,2 @@
 {"id":1,"title":"Мой секрет","content":"Я устала очень сильно","author":"","category":"other","created_at":"2026-04-01","is_anonymous":1,"created_timestamp":1775051552}
+{"id":2,"title":"секрет года","content":"у меня самые лучшие преподаватели","author":"","category":"love","created_at":"2026-04-01","is_anonymous":1,"created_timestamp":1775055951}
